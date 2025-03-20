@@ -2,7 +2,7 @@
 
 A professional GUI tool for changing, adding, and extracting icons from Windows executable files.
 
-![EXE Icon Changer](bin/logo.png)
+![image](https://github.com/user-attachments/assets/860fd7fc-abff-442d-ae6c-b24ef65abad7)
 
 ## 🚀 Features
 
@@ -21,40 +21,46 @@ A professional GUI tool for changing, adding, and extracting icons from Windows 
 
 ## 📥 Installation
 
-1. Clone this repository or download the ZIP file
+Clone this repository or download the ZIP file
 ```
 git clone https://github.com/adithyanraj/exe-icon-changer.git
 ```
-
-2. Install the required Python packages
-```
-pip install -r requirements.txt
-```
-
-3. Make sure ResourceHacker.exe is placed in the `bin` directory
 
 ## 🔧 Dependencies
 
 ```
 pip install pyqt5 pillow pywin32
 ```
+or On Linux
+```
+pip3 install pyqt5 pillow pywin32
+```
 
 - PyQt5 - GUI framework
 - Pillow (PIL) - Image processing
 - PyWin32 - Windows API integration
-- Resource Hacker (included in bin directory)
 
 ## 💻 Usage
 
 1. Run the application
 ```
-python exe-icon-changer.py
+python Main.py
 ```
+or On Linux
+
+```
+python3 Main.py
+```
+![image](https://github.com/user-attachments/assets/6b14b971-be31-43dd-a096-900c8b7238e5)
 
 2. Select an EXE file using the "Browse" button
+![image](https://github.com/user-attachments/assets/21edaddb-2268-4a38-ab3c-8655b3c36c61)
+
 3. The application will display the current icons in the file
 4. Select a new icon file using the second "Browse" button
 5. Click "Add/Replace Icon" to update the executable
+![image](https://github.com/user-attachments/assets/c5284122-ac37-4ecb-ad92-57c34a9fca2d)
+
 6. A backup of the original executable will be created automatically
 
 ## 🔍 Additional Options
@@ -82,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 👨‍💻 Author
 
-- **Adithyanraj** - Initial work and maintenance
+- **Adithyanraj**
 
 ## 🙏 Acknowledgments
 
