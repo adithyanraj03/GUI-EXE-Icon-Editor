@@ -86,6 +86,12 @@ The application uses:
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/adithyanraj03/GUI-EXE-Icon-Editor/blob/main/LICENSE) file for details.
 
+
+## Contact
+
+For questions or feedback, feel free to reach out 😄 click: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=adithyanraj03@gmail.com&su=EXE%20Icon%20Changer&body=Hello%20Developer%20Adithya,%0A%0AI%20came%20across%20your%20Git%20repository%20for%20the%20EXE%20Icon%20Changer%20and%20wanted%20to%20reach%20out.%0A%0AI'm%20interested%20in%20discussing%20some%20ideas.%0A%0ABest,%0A[Your%20Name]
+)
+
 ## 👨‍💻 Author
 
 - **Adithyanraj**
