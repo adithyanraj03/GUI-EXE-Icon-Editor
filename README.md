@@ -2,7 +2,8 @@
 
 A professional GUI tool for changing, adding, and extracting icons from Windows executable files.
 
-![image](https://github.com/user-attachments/assets/860fd7fc-abff-442d-ae6c-b24ef65abad7)
+![Screenshot 2025-03-21 042500](https://github.com/user-attachments/assets/f075fd8b-d3b7-44e7-b0b2-7ca9a1962e25)
+
 
 ## 🚀 Features
 
@@ -23,7 +24,7 @@ A professional GUI tool for changing, adding, and extracting icons from Windows 
 
 Clone this repository or download the ZIP file
 ```
-git clone https://github.com/adithyanraj/exe-icon-changer.git
+git clone https://github.com/adithyanraj03/GUI-EXE-Icon-Editor.git
 ```
 
 ## 🔧 Dependencies
